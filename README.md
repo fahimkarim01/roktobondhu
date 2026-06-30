@@ -6,7 +6,7 @@ An emergency blood donation platform for Bangladesh that connects blood donors w
 
 > ⚠️ **Note:** This is an MVP (minimum viable product) built as a learning project to explore Next.js 16, Supabase, and modern full-stack patterns.
 
-- **Live demo:** 
+- **Live demo:** roktobondhu-bd.vercel.app/
 - **Source code:** https://github.com/fahimkarim01/roktobondhu
 
 ---
