@@ -162,7 +162,7 @@ View Open Requests (public) → Post Request (public) → Or Sign Up
 
 Deployed on **Vercel**.
 
-- **Live URL:** [PLACEHOLDER_VERCEL_URL]
+- **Live URL:** https://roktobondhu-bd.vercel.app/
 - Set the following environment variables in the Vercel dashboard (**Project Settings → Environment Variables**):
   - `NEXT_PUBLIC_SUPABASE_URL`
   - `NEXT_PUBLIC_SUPABASE_ANON_KEY`
