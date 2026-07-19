@@ -171,7 +171,7 @@ Deployed on **Vercel**.
 
 ## 9. Learning & Development Notes
 
-- Built with **AI-assisted development** using Cursor.
+
 - **Key technologies learned:** Next.js 16 Server/Client Components, Supabase Auth & SSR, Row Level Security.
 - Authentication uses **`@supabase/ssr`** for cookie-based sessions, so the auth state is readable from Server Components.
 - Route protection is handled by **`proxy.ts`** — the Next.js 16 convention that replaces the deprecated `middleware.ts`.
